@@ -3,11 +3,11 @@
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building real-time applications and fitness tracking solutions.
 
 ## 🚀 Projects
-- [Real-Time Chat](https://github.com/ElTiToRuiz/Real-Time-Chat): A real-time chat application built with modern web technologies.
-- [Personal Fitness Tracker](https://github.com/ElTiToRuiz/Personal-Fitness-Tracker): A comprehensive fitness tracking application to monitor and improve your health.
+- [Real-Time Chat](https://github.com/ElTiToRuiz/Real-Time-Chat)
+- [Personal Fitness Tracker](https://github.com/ElTiToRuiz/Personal-Fitness-Tracker)
 
 ## 💼 Experience
-I have extensive experience in software development, particularly in web development and data analysis. I enjoy working with both frontend and backend technologies to create seamless and efficient applications.
+I have a wealth of experience in software development, specializing in web development and data analysis. I thrive on utilizing both frontend and backend technologies to craft seamless and high-performing applications.
 
 ## 👨‍💻 About Me
 I'm a dedicated developer who loves to learn and explore new technologies. When I'm not coding, you can find me working out, reading tech blogs, or contributing to open-source projects.
