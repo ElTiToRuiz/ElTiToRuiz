@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 Projects
 - [Real-Time Chat](https://github.com/ElTiToRuiz/Real-Time-Chat)
-- [Personal Fitness Tracker](https://github.com/ElTiToRuiz/Personal-Fitness-Tracker)
+- [Digital Journaling Backend](https://github.com/ElTiToRuiz/Digital-Journal)
 
 ## 🔧 Technologies & Tools
 
