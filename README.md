@@ -1,6 +1,6 @@
 # Hi there, I'm Igor Ruiz! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building real-time applications and fitness tracking solutions.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building solutions to solve real-world problems, optimize workflows, and explore innovative technologies.
 
 ## 🚀 Projects
 - [Real-Time Chat](https://github.com/ElTiToRuiz/Real-Time-Chat)
